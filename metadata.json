@@ -1,0 +1,5 @@
+{
+  "name": "Módulo MAC - Gerenciamento de Crises",
+  "description": "Módulo de Análise e Gerenciamento de Crises que processa feedback em tempo real e gera tickets de ação priorizados.",
+  "requestFramePermissions": []
+}
